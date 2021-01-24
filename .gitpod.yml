@@ -1,6 +1,6 @@
 tasks:
   - init: npm install && npm i -g nx
-    command: npm start
+    command: echo "Started"
 
 vscode:
   extensions:
